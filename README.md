@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rahu 1Verma
+- 👋 Hi, I’m @Rahul Verma
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on ...
